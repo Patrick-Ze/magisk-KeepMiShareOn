@@ -1,0 +1,6 @@
+id=me.patrick.keep_mi_share_on
+name=Keep MiShare on
+version=1.0
+versionCode=1
+author=Patrick
+description=Downgrade MiShare to version 2.10.0 that can be always enabled
